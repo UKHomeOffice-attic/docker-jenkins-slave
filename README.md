@@ -1,5 +1,7 @@
 # Jenkins Slave Docker Container
 
+[![Build Status](https://travis-ci.org/UKHomeOffice/docker-jenkins-slave.svg?branch=master)](https://travis-ci.org/UKHomeOffice/docker-jenkins-slave)
+
 This container is a basic jenkins slave that contains only the information required to get a jenkins
 node up an running. The reason behind this image is to give you somewhere to put language specific 
 build tools and dependencies (which may even conflict with differing library version, for example) 
