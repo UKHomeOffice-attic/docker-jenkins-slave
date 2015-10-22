@@ -77,7 +77,7 @@ docker run quay.io/ukhomeofficedigital/jenkins-slave:v0.2.0 \
 ### Kubernetes Example
 
 You can find an example of the ReplicationController you might with this container in 
-[examplekb8.rc.yml](examplekb8.rc.yml).
+[examplek8s.rc.yml](examplek8s.rc.yml).
   
 ## Find Us
 
